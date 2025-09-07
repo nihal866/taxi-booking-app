@@ -1,0 +1,6 @@
+# Ignore Maven wrapper and build output directories
+taxibooking/.mvn/
+taxibooking/target/
+taxibooking/.gitattributes
+taxibooking/.gitignore
+taxibooking/HELP.md
